@@ -23,7 +23,7 @@
       
  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
   
-  ![Snake animation](https://github.com/psnascimento/psnascimento/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Patricia-Silva1/Patricia-Silva1/blob/output/github-contribution-grid-snake.svg)
   
 </div>
   
