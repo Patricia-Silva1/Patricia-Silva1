@@ -2,7 +2,7 @@
 - 👩🎓Atualmente sou Estudante do curso Dev FUll Stack 
 - ❤️ Apaixonada em aprender 
 - 💡 Back end e Front end.  
- - 📫Contate-me no email:patriciasilvadev@outlook.com
+ - 📫Contate-me no email: patriciasilvadev@outlook.com
  <div>
   <a href="https://github.com/Patricia-Silva1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patricia-Silva1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
