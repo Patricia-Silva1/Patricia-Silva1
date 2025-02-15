@@ -1,5 +1,5 @@
   ## 🙋Olá! Eu sou a Patrícia Silva! 
-- 👩🎓Atualmente sou Estudante do curso Dev FUll Stack 
+- 👩🎓Atualmente sou Estudante do curso DevClub FUll Stack 
 - ❤️ Apaixonada em aprender 
 - 💡 Back end e Front end.  
  - 📫Contate-me no email: patriciasilvadev@outlook.com
