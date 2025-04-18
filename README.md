@@ -1,8 +1,9 @@
   ## 🙋Olá! Eu sou a Patrícia Silva! 
 - 👩🎓Atualmente sou Estudante do curso DevClub FUll Stack 
 - ❤️ Apaixonada em aprender 
-- 💡 Back end e Front end.  
- - 📫Contate-me no email: patriciasilvadev@outlook.com
+- 💡 Back end e Front end.
+- LinkedIn:www.linkedin.com/in/patricia-silva-desenvolvedora
+- 📫Contate-me no email: patriciasilvadev@outlook.com
 
    <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+Chamo+Patricia😁!;" />
